@@ -1,5 +1,5 @@
 #include <stdio.h>
-//判斷座標是否在圓形的範圍內
+//判斷座標是否在圓形的範圍內https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30749
 int main(){
     int x, y;
     scanf("%d %d",&x, &y);
